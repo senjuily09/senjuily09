@@ -1,5 +1,10 @@
-<h1 align="center">Hi there, I'm Harshith (<a href="https://senjuily09.live" target="_blank">Senjuily</a>) 👋</h1>
-<h3 align="center">Aspiring Web Developer & Problem Solver from India 🇮🇳</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./chat.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./chat.svg">
+    <img src="./chat.svg" alt="Dynamic Chat Bubble Profile">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://instagram.com/senjuily09" target="_blank">
@@ -12,16 +17,6 @@
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-I'm a 20-year-old tech enthusiast with a drive for learning and innovation. I enjoy tackling real-world challenges and translating ideas into clean, functional code.
-
-- 🔭 I’m currently building my personal portfolio at **senjuily09.live** and working on a **Route Visualizer**
-- 🌱 I’m currently diving deep into modern web development
-- ⚡ Fun fact: When I'm not coding, I'm vibing to music or checking out bikes 🏍️
 
 ---
 
