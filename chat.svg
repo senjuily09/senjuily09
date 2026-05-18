@@ -57,7 +57,7 @@
 
         <g class="msg2">
             <rect x="0" y="65" width="460" height="46" class="bubble" />
-            <text x="24" y="93" class="text">I'm a 20-year-old aspiring Web Developer from India 🇮🇳</text>
+            <text x="24" y="93" class="text">I'm a 20-year-old aspiring Software Engineer and Full Stack Developer from India 🇮🇳</text>
         </g>
         
         <g class="type2" transform="translate(0, 130)">
