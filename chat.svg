@@ -68,8 +68,8 @@
         </g>
 
         <g class="msg3">
-            <rect x="0" y="130" width="490" height="46" class="bubble" />
-            <text x="24" y="158" class="text">Currently building senjuily09.live and a Route Visualizer 🔭</text>
+            <rect x="0" y="130" width="620" height="46" class="bubble" />
+            <text x="24" y="158" class="text">Experimenting with new web technologies and building full-stack applications 🌐</text>
         </g>
 
         <g class="type3" transform="translate(0, 195)">
