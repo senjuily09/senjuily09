@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./chat.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./chat.svg">
-    <img src="./chat.svg" alt="Dynamic Chat Bubble Profile">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senjuily09/senjuily09/main/chat.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senjuily09/senjuily09/main/chat.svg?v=1">
+    <img src="https://raw.githubusercontent.com/senjuily09/senjuily09/main/chat.svg?v=1" alt="Dynamic Chat Bubble Profile">
   </picture>
 </p>
 
