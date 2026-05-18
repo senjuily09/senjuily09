@@ -56,7 +56,7 @@
         </g>
 
         <g class="msg2">
-            <rect x="0" y="65" width="460" height="46" class="bubble" />
+            <rect x="0" y="65" width="680" height="46" class="bubble" />
             <text x="24" y="93" class="text">I'm a 20-year-old aspiring Software Engineer and Full Stack Developer from India 🇮🇳</text>
         </g>
         
@@ -68,7 +68,7 @@
         </g>
 
         <g class="msg3">
-            <rect x="0" y="130" width="620" height="46" class="bubble" />
+            <rect x="0" y="130" width="640" height="46" class="bubble" />
             <text x="24" y="158" class="text">Experimenting with new web technologies and building full-stack applications 🌐</text>
         </g>
 
