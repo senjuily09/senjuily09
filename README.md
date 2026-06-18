@@ -39,7 +39,6 @@
 </p>
 
 ---
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -47,7 +46,7 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=senjuily09&theme=radical&hide_border=false" alt="Current Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senjuily09&theme=radical&hide_border=false&layout=compact&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senjuily09&theme=radical&hide_border=false&layout=compact&hide=jupyter%20notebook&v=1" alt="Top Languages" />
 </p>
 
 ---
